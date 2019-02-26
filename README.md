@@ -1,1 +1,1 @@
-# Computer-Architeture
+# Computer-Architecture
